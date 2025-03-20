@@ -1,3 +1,4 @@
+// Rifat Djibran
 public class MahasiswaBerprestasi18 {
     Mahasiswa18[] listMhs = new Mahasiswa18[5]; 
 
@@ -40,6 +41,7 @@ public class MahasiswaBerprestasi18 {
         }
     }
     
+
     void insertionSort() {
         for (int i = 1; i < listMhs.length; i++) {
             Mahasiswa18 temp = listMhs[i];
