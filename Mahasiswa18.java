@@ -19,6 +19,7 @@ public class Mahasiswa18 {
         System.out.println("NIM   : " + nim);
         System.out.println("Kelas : " + kelas);
         System.out.println("IPK   : " + ipk);
-        System.out.println("----------------------------");
+        System.out.println("-----------------------------");
     }
 }
+
